@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: darkgrey;
+    text-align: center;
+  }
+  .details{
+    max-width: 650px;
+    height: 200px;
+    width: 100%;
+    background-color: #fff;
+    padding: 60px 45px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    font size:20px;
+    padding: 30px;
+  }
+  button{
+   position: absolute;
+   background-color: rgb(25, 160, 223);
+   height: fit-content;
+   font-size: 15px;
+   cursor: pointer;
+   justify-content: center;
+   text-align: center;
+   padding: 14px 27px;
+  }
+button:hover{
+    background-color:  dodgerblue;  
+}
+
+h1{
+    text-align: center;
+}
+input{
+
+    background-color: #eeeeee;
+    height:20px;
+    font-size:10pt ;
+    width:300px;
+    text-align: center;
+}
