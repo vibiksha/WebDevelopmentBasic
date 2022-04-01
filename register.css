@@ -1,0 +1,59 @@
+button{
+    display: block;
+    width: 750px;
+    height: fit-content;
+    background-color: #17375b;
+    text-align: center;
+    padding: 10px 30px;
+    padding-top: 20px;
+    border-radius: 50px;
+    font-size: 30px;
+    cursor: pointer;
+}
+button:hover{
+    color: #fff;
+    background-color: #4475e2
+}
+body{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 30px;
+background: #14273d;
+background-image: url("reg.jpg");
+background-size: auto;
+text-align: center;
+}
+.details{
+max-width: 680px;
+height: 200px;
+width: 100%;
+background-color: #fff;
+padding: 60px 45px;
+border-radius: 20px;
+box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+padding: 30px;
+font-size: 20px;
+}
+
+h1{
+      text-align: center;
+      color: white;
+}
+
+input{
+
+    background-color: #eeeeee;
+    height:20px;
+    font-size:10pt ;
+    width:400px;
+    text-align: center;
+}
+a{
+    color: #4475e2;
+  }
+.signin{
+    font-size: 25px;
+    color: #fff;
+}
